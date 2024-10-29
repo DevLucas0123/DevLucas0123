@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá Boas Vindas Ao Meu Perfil  👋
 
-<!--
-**DevLucas0123/DevLucas0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome É **Lucas Barão**
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou na parte de desenvolvimento de JavaScript
+- Utilo esse repositória para a compartilhação de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Para Entrar Em Contato Comigo 
+
+lucas.barao@escola.pr.gov.br
+
+@lucasalbertibarao
+
+![image](https://github.com/user-attachments/assets/3abe59a7-c9c2-4f98-9df4-13c427446dc8)
